@@ -1,0 +1,17 @@
+#複數變化
+
+1.直接加-s : cat ---> cats
+
+2.字尾s,o,x,sh,ch加-es : fox ---> foxes
+* o的例外單字(直接加-s) : piano, radio, photo
+
+3.字尾為-y, 去-y加-ies : party ---> parties
+* y前面有母音直接加-s : toy ---> toys
+
+
+
+
+
+
+*單數名詞前面加 a/an (字首為母音用an)
+
