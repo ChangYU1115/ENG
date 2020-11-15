@@ -1,16 +1,38 @@
 #複數變化
 
-1.直接加-s : cat ---> cats
+1.直接加-s : 
+cat ---> cats
 
-2.字尾s,o,x,sh,ch加-es : fox ---> foxes
+
+2.字尾s,o,x,sh,ch加-es : 
+fox ---> foxes
 * o的例外單字(直接加-s) : piano, radio, photo
 
-3.字尾為-y, 去-y加-ies : party ---> parties
+3.字尾為-y，去-y加-ies : 
+party ---> parties
 * y前面有母音直接加-s : toy ---> toys
 
+4.字尾f、fe，去 f/fe 加-ves:  
 
+wife ---> wives
+leaf ---> leaves
 
+5.不規則 : 
 
+child ---> children
+person ---> people
+man ---> men
+woman ---> women
+foot ---> feet
+tooth ---> teeth
+mouse ---> mice
+
+6.單複同形 :
+
+fish、sheep、deer
+
+7.一定要以複數方式呈現
+pants、shorts、jeans、underpants、glasses、scissors
 
 
 *單數名詞前面加 a/an (字首為母音用an)
